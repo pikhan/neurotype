@@ -23,3 +23,7 @@ Notes:
 - Education codes correspond to the following levels of education: 1: less than high school grad., 2: high school grad., 3: some college, 4: college grad., 5: beyond college.
 - Mini-Mental State Examination (MMSE) (Rubin et al., 1998)
 - Clinical Dementia Rating (CDR; 0=nondemented; 0.5 – very mild dementia; 1 = mild dementia; 2 = moderate dementia) (Morris, 1993). All participants with dementia (CDR >0) were diagnosed with probable AD
+
+# Day 1 Progress
+- Got AWS access to HCP WU-Minn data
+- Did some EDA on it, figured out where the personality, T1w, and rs-fMRI data is all located
